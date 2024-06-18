@@ -1,0 +1,13 @@
+__pycache__/
+build/
+training_outputs/
+training_plots/
+*.out
+*.err
+*.log
+*.pkl
+*.pickle
+*.pth
+*.so
+
+.DS_Store
